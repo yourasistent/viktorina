@@ -57,7 +57,7 @@ else:
 
 print(f"6.{questions[5]}")
 answer6=(input("Ваш ответ:"))
-if answer4.lower()==answers[5]:
+if answer6.lower()==answers[5]:
     print("+3 балла тебе в копилку")
     Balls=Balls+3
 else:
